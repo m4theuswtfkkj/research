@@ -1,0 +1,3 @@
+telemetry?
+- https://minecraftprod.rtep.msgamestudios.com
+-> https://www.reddit.com/r/Minecraft/comments/o2b3j8/minecraftprodrtepmsgamestudioscom_dns_requests/
